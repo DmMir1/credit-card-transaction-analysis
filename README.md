@@ -22,7 +22,7 @@ The project covers the complete analytical workflow: **data profiling, data clea
 ### 1. Credit Card Transaction Overview
 
 <img width="1315" height="740" alt="01_transaction_overview" src="https://github.com/user-attachments/assets/8045220a-7038-4f40-85f1-288baa02fdeb" />
-![Credit Card Transaction Overview](C:\Users\Dmytro\Documents\Data analysis portfolio\Financial Transactions Dataset Analytics\Visualisation/01_transaction_overview.png)
+![Credit Card Transaction Overview](images/01_transaction_overview.png)
 
 This page provides an executive-level overview of transaction activity and monthly trends.
 
