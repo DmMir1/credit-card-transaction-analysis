@@ -22,7 +22,7 @@ The project covers the complete analytical workflow: **data profiling, data clea
 ### 1. Credit Card Transaction Overview
 
 <img width="1315" height="740" alt="01_transaction_overview" src="https://github.com/user-attachments/assets/8045220a-7038-4f40-85f1-288baa02fdeb" />
-![Credit Card Transaction Overview](images/01_transaction_overview.png)
+
 
 This page provides an executive-level overview of transaction activity and monthly trends.
 
@@ -42,7 +42,7 @@ A **Year slicer** allows users to interactively filter the dashboard.
 ### 2. Card & Product Analysis
 
 <img width="1313" height="740" alt="02_card_product_analysis" src="https://github.com/user-attachments/assets/283561e3-66f2-41f9-95e0-e0a0996234e4" />
-![Card & Product Analysis](images/02_card_product_analysis.png)
+
 
 This page analyzes card portfolio performance across different card types and supports interactive filtering by card brand.
 
@@ -68,7 +68,8 @@ This shows that debit dominates overall portfolio activity and transaction frequ
 
 ### 3. Customer & Merchant Analysis
 
-![Customer & Merchant Analysis](images/03_customer_merchant_analysis.png)
+<img width="1314" height="738" alt="03_customer_merchant_analysis" src="https://github.com/user-attachments/assets/ef368b99-c946-4724-8e96-8732c19f5f4d" />
+
 
 This page combines customer demographics with merchant-category performance.
 
@@ -99,7 +100,8 @@ This analysis demonstrates that total transaction value, transaction frequency, 
 
 ### 4. Geographic Analysis
 
-![Geographic Analysis](images/04_geographic_analysis.png)
+<img width="1329" height="748" alt="04_geographic_analysis" src="https://github.com/user-attachments/assets/0cd281a4-235d-426f-891e-7c17a6f2d3a1" />
+
 
 This page analyzes transaction activity across physical merchant locations while representing online transactions separately.
 
