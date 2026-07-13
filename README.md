@@ -41,6 +41,7 @@ A **Year slicer** allows users to interactively filter the dashboard.
 
 ### 2. Card & Product Analysis
 
+<img width="1313" height="740" alt="02_card_product_analysis" src="https://github.com/user-attachments/assets/283561e3-66f2-41f9-95e0-e0a0996234e4" />
 ![Card & Product Analysis](images/02_card_product_analysis.png)
 
 This page analyzes card portfolio performance across different card types and supports interactive filtering by card brand.
